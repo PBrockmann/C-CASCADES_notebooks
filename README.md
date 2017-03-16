@@ -1,6 +1,6 @@
 # C-CASCADES_notebooks
 
-* What you can do from a nootebook: 
+* What you can do from a notebook: 
   * WhereDoYouComeFrom.ipynb
 * Use ferret from a notebook:
   * ferretBasics.ipynb

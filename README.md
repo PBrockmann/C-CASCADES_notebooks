@@ -1,5 +1,12 @@
 # C-CASCADES_notebooks
 
+
+http://c-cascades.ulb.ac.be/events-news/training-workshops<br>
+Training Workshop – Regional to global modeling<br>
+Dates: 13th - 17th March 2017<br>
+Location: UPMC, Paris, France
+
+
 * What you can do from a notebook: 
   * WhereDoYouComeFrom.ipynb
 * Use ferret from a notebook:

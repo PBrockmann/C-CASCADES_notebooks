@@ -1,7 +1,7 @@
 # C-CASCADES_notebooks
 
 * What you can do from a nootebook: 
-  * WhereDoYouComeFrom.ipynbWhereDoYouComeFrom.ipynb
+  * WhereDoYouComeFrom.ipynb
 * Use ferret from a notebook:
   * ferretBasics.ipynb
 * Exploring CMIP5 with ferret:
